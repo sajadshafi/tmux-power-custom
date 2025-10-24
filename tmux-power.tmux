@@ -65,8 +65,8 @@ case $TC in
     'sky' )
         TC='#87ceeb'
         ;;
-    'everforest' )
-        TC='#a7c080'
+    'yonce' )
+        TC='#FC4384'
         ;;
 esac
 
